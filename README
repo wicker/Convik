@@ -4,5 +4,12 @@ Digital brushless motor controller.
 
 Project information can be found at https://github.com/greghaynes/Convik/wiki
 
+------
+Convik Demo Board
+
+Files marked board-demo are for a breadboard version that exists for testing and which is independent of quadcopter power distribution. Not final on-board version. 
+
+------
+
 The hardware and software in this project are licensed under the MIT License. See LICENSE for more information.
 
